@@ -3,9 +3,9 @@ requires = ["setuptools>=61.0.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "calcutils_yourname"
+name = "abacusIsaacPrecieux"
 version = "0.1.0"
-description = "A simple student tutorial math utility package"
+description = "comprehensive calculator for various mathematical operations"
 readme = "README.md"
 authors = [
     { name = "N.I Precieux", email = "niyobyoseisaac@rca.ac.rw" }

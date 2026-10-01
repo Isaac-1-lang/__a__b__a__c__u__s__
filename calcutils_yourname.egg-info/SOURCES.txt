@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+calculator/__init__.py
+calculator/arithmetic.py
+calculator/logarithms.py
+calculator/powers.py
+calculator/statistics.py
+calculator/trigonometry.py
+calcutils_yourname.egg-info/PKG-INFO
+calcutils_yourname.egg-info/SOURCES.txt
+calcutils_yourname.egg-info/dependency_links.txt
+calcutils_yourname.egg-info/top_level.txt

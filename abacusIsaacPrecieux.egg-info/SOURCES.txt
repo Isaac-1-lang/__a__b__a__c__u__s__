@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+abacusIsaacPrecieux.egg-info/PKG-INFO
+abacusIsaacPrecieux.egg-info/SOURCES.txt
+abacusIsaacPrecieux.egg-info/dependency_links.txt
+abacusIsaacPrecieux.egg-info/top_level.txt
+calculator/__init__.py
+calculator/arithmetic.py
+calculator/logarithms.py
+calculator/powers.py
+calculator/statistics.py
+calculator/trigonometry.py
