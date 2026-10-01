@@ -3,8 +3,6 @@ from .arithmetic import (
     subtract,
     multiply,
     divide,
-    modulus,
-    floor_divide,
 )
 
 from .powers import (
@@ -28,6 +26,4 @@ from .logarithms import (
     ln,
     log10,
     log2,
-    log,
-    exponential,
 )
